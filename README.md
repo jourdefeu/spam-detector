@@ -18,4 +18,4 @@ Jupyter Notebook containing the code:
 A Spam detector detects spam messages or emails by understanding text content so that you can only receive notifications about messages or emails that are very important to you.
 ____________________________________________________________________
 
-_in progress..._ <img src="https://github.com/jourdefeu/summarize-text/assets/157377780/9c580d9d-aaa3-4ced-b4af-20cdf0d19412" width="45" height="45"> 
+_in progress..._ <img src="https://github.com/user-attachments/assets/ff7b90a1-b215-476e-aa1b-de06a74348e3" width="35" height="35">
